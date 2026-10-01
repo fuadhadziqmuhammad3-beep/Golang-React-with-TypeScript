@@ -25,3 +25,4 @@ Golang sebagai backend dan React sebagai frontend.
 ## Showcase
 Project ini dibuat sebagai hasil pembelajaran kelas
 Fullstack Developer dengan Golang dan React di SantriKoding.
+https://santrikoding.com/showcases/golang-react-with-typescript-4NJYS
